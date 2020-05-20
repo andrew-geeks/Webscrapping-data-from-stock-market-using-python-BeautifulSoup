@@ -27,7 +27,7 @@ for i in range(len(real1)):
             value4=value4+real1[i]
 print('Highest Value: ',float(value4))#highest value
 
-#data from moneycontrol.com(NSE India)
+##data from moneycontrol.com(NSE India)
 
 
 
